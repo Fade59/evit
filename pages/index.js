@@ -4,7 +4,6 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    <div className="container">
       
 
 		<!-- site-header -->
@@ -110,8 +109,7 @@ DE341307633</p>
 									</div><!-- .site-info -->
 				
 			</div>
-		</footer><!-- .site-footer -->
-		<div class="kktfwp-overlay"></div>
+		</footer>
 	
   )
 }
